@@ -1,10 +1,8 @@
 # Awesome AI Research Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of AI-powered tools, platforms, and resources for academic researchers — covering the full research lifecycle from ideation to publication.
->
-> 为学术研究者精心整理的 AI 工具与资源合集，覆盖从灵感到发表的完整科研流程。
 
-**English** | [中文说明](#中文说明)
+**English** | [中文版](README_CN.md)
 
 ---
 
@@ -22,8 +20,6 @@
 ## 🤖 AI Research Agent Frameworks
 
 > End-to-end platforms where AI agents autonomously drive the research process — from idea generation to paper output.
->
-> 端到端的 AI 自动化科研平台，支持从选题到论文的完整自动化流程。
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -38,8 +34,6 @@
 ## 🔌 AI Coding Assistant Enhancements
 
 > Skill packs, plugins, and configuration frameworks that supercharge AI coding assistants (Claude Code, Codex, Cursor, etc.) for research tasks.
->
-> 为 Claude Code、Codex、Cursor 等 AI 编程助手提供科研能力的技能包与插件。
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -56,8 +50,6 @@
 ## 📚 Literature Discovery & Management
 
 > Tools for finding, recommending, organizing, and processing academic papers.
->
-> 文献检索、推荐、管理与处理工具。
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -72,8 +64,6 @@
 ## ✍️ Academic Writing & Review
 
 > Tools for improving research writing quality and streamlining the paper review process.
->
-> 论文写作质量提升与审稿流程辅助工具。
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -85,8 +75,6 @@
 ## 📋 Related Collections
 
 > Other curated lists and resource collections in this space — useful as reference and discovery sources.
->
-> 本领域其他优质资源合集，可用于发现更多工具。
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -109,18 +97,4 @@ For websites and non-GitHub tools, use 🌐 instead of a star badge.
 
 ---
 
-## 中文说明
-
-本项目收录面向学术研究的 AI 工具与资源，按工具类型分为以下几类：
-
-- **AI 科研 Agent 框架**：端到端自动化科研平台
-- **AI 编程助手增强**：Claude Code / Codex / Cursor 等的技能包与插件
-- **文献检索与管理**：论文发现、推荐、整理工具
-- **学术写作与审稿**：写作质量提升与审稿辅助
-- **相关资源合集**：本领域其他优质 Awesome List
-
-欢迎提交 PR 补充新工具！格式参考上方表格。
-
----
-
-*Last updated: 2026-03 · [Submit an issue](../../issues) to suggest a tool*
+*Last updated: 2026-03 · [Submit an issue](https://github.com/Chenqx0302/Awesome-AI-Research-Tools/issues) to suggest a tool*
