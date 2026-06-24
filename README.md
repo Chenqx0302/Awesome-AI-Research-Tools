@@ -53,6 +53,7 @@
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [Remio](https://remio.ai/) | 🌐 | Local-first AI memory and knowledge base desktop app that parses research files, webpages, recordings, emails, messages, images, and notes into local indexes/vectors for focused personal context retrieval. |
 | [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | ![Stars](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily?style=flat-square&color=yellow) | Automatically recommends new arXiv papers daily based on your personal Zotero library. Personalized paper discovery powered by your reading history. |
 | [SurveyX](https://github.com/IAAR-Shanghai/SurveyX) | ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat-square&color=yellow) | Academic survey paper generation system. Automatically generates structured literature review drafts on a given topic. |
 | [SearchPaperByEmbedding](https://github.com/gyj155/SearchPaperByEmbedding) | ![Stars](https://img.shields.io/github/stars/gyj155/SearchPaperByEmbedding?style=flat-square&color=yellow) | Find relevant papers by semantic embedding similarity rather than keyword matching. Useful for discovering conceptually related work. |
